@@ -38,8 +38,8 @@ Best Practices→ SOLID, DDD, TDD, Clean Code, Gitflow
 #### 🔧 [Dotfiles](https://github.com/programadoramauri/dotfiles)
 Custom terminal setup with advanced aliases, theming, Hyprland support, and productivity tools.
 
-#### 📦 `laravel-crud` (private or to improve)
-Basic CRUD using Laravel and Docker for learning purposes. You can fork or improve this as a template.
+#### 📦 [laravelInvoices](https://github.com/programadoramauri/LaravelInvoices)
+This project is focused on exploring modern backend structure, containerized development and progressive feature building.
 
 ---
 
